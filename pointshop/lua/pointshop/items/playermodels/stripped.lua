@@ -1,4 +1,4 @@
-ITEM.Name = 'stripped'
+ITEM.Name = 'Stripped'
 ITEM.Price = 850
 ITEM.Model = 'models/player/soldier_stripped.mdl'
 

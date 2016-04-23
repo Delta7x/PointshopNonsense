@@ -1,4 +1,4 @@
-ITEM.Name = 'charple'
+ITEM.Name = 'Charple'
 ITEM.Price = 600
 ITEM.Model = 'models/player/charple.mdl'
 

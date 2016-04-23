@@ -1,4 +1,4 @@
-ITEM.Name = 'gasmask'
+ITEM.Name = 'Gasmask'
 ITEM.Price = 150
 ITEM.Model = 'models/player/gasmask.mdl'
 

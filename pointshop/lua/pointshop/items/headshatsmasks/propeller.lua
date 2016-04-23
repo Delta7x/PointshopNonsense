@@ -12,7 +12,7 @@ function ITEM:OnHolster(ply)
 end
 
 function ITEM:ModifyClientsideModel(ply, model, pos, ang)
-	local Size = Vector(0.07,0.07,0.07)
+	local Size = Vector(0.09,0.09,0.09)
 	local mat = Matrix()
 	mat:Scale(Size)
 	model:EnableMatrix('RenderMultiply', mat)

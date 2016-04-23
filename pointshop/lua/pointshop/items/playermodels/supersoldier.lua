@@ -1,4 +1,4 @@
-ITEM.Name = 'super_soldier'
+ITEM.Name = 'Super Soldier'
 ITEM.Price = 750
 ITEM.Model = 'models/player/combine_super_soldier.mdl'
 

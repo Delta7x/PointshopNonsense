@@ -18,7 +18,7 @@ function ITEM:ModifyClientsideModel(ply, model, pos, ang)
 	model:EnableMatrix('RenderMultiply', mat)
 
 	model:SetMaterial('')
-	pos = pos + (ang:Forward() * 1) + (ang:Up() * -16)
+	pos = pos + (ang:Forward() * -3) + (ang:Up() * -20)
 	
 	return model, pos, ang
 end
